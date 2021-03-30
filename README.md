@@ -1,0 +1,4 @@
+# Install
+
+``npm or yarn`
+
